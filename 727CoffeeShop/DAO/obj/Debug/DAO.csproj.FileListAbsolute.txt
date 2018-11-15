@@ -1,0 +1,7 @@
+E:\lap trinh\Lap trinh CSDL\727CoffeeShop\DAO\bin\Debug\DAO.dll
+E:\lap trinh\Lap trinh CSDL\727CoffeeShop\DAO\bin\Debug\DAO.pdb
+E:\lap trinh\Lap trinh CSDL\727CoffeeShop\DAO\bin\Debug\DTO.dll
+E:\lap trinh\Lap trinh CSDL\727CoffeeShop\DAO\bin\Debug\DTO.pdb
+E:\lap trinh\Lap trinh CSDL\727CoffeeShop\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\lap trinh\Lap trinh CSDL\727CoffeeShop\DAO\obj\Debug\DAO.dll
+E:\lap trinh\Lap trinh CSDL\727CoffeeShop\DAO\obj\Debug\DAO.pdb
