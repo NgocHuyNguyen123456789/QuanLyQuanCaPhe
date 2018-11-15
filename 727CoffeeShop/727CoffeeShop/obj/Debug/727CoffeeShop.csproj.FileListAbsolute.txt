@@ -15,3 +15,20 @@ E:\lap trinh\Lap trinh CSDL\727CoffeeShop\727CoffeeShop\bin\Debug\DTO.pdb
 E:\lap trinh\Lap trinh CSDL\727CoffeeShop\727CoffeeShop\bin\Debug\DAO.dll
 E:\lap trinh\Lap trinh CSDL\727CoffeeShop\727CoffeeShop\bin\Debug\DAO.pdb
 E:\lap trinh\Lap trinh CSDL\727CoffeeShop\727CoffeeShop\obj\Debug\_727CoffeeShop.Product.resources
+C:\Users\HuyNguyen\Desktop\New folder\QuanLyQuanCaPhe\727CoffeeShop\727CoffeeShop\bin\Debug\727CoffeeShop.exe.config
+C:\Users\HuyNguyen\Desktop\New folder\QuanLyQuanCaPhe\727CoffeeShop\727CoffeeShop\obj\Debug\727CoffeeShop.exe
+C:\Users\HuyNguyen\Desktop\New folder\QuanLyQuanCaPhe\727CoffeeShop\727CoffeeShop\obj\Debug\727CoffeeShop.pdb
+C:\Users\HuyNguyen\Desktop\New folder\QuanLyQuanCaPhe\727CoffeeShop\727CoffeeShop\bin\Debug\727CoffeeShop.exe
+C:\Users\HuyNguyen\Desktop\New folder\QuanLyQuanCaPhe\727CoffeeShop\727CoffeeShop\bin\Debug\727CoffeeShop.pdb
+C:\Users\HuyNguyen\Desktop\New folder\QuanLyQuanCaPhe\727CoffeeShop\727CoffeeShop\bin\Debug\BUS.dll
+C:\Users\HuyNguyen\Desktop\New folder\QuanLyQuanCaPhe\727CoffeeShop\727CoffeeShop\bin\Debug\DTO.dll
+C:\Users\HuyNguyen\Desktop\New folder\QuanLyQuanCaPhe\727CoffeeShop\727CoffeeShop\bin\Debug\DAO.dll
+C:\Users\HuyNguyen\Desktop\New folder\QuanLyQuanCaPhe\727CoffeeShop\727CoffeeShop\bin\Debug\BUS.pdb
+C:\Users\HuyNguyen\Desktop\New folder\QuanLyQuanCaPhe\727CoffeeShop\727CoffeeShop\bin\Debug\DTO.pdb
+C:\Users\HuyNguyen\Desktop\New folder\QuanLyQuanCaPhe\727CoffeeShop\727CoffeeShop\bin\Debug\DAO.pdb
+C:\Users\HuyNguyen\Desktop\New folder\QuanLyQuanCaPhe\727CoffeeShop\727CoffeeShop\obj\Debug\727CoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\HuyNguyen\Desktop\New folder\QuanLyQuanCaPhe\727CoffeeShop\727CoffeeShop\obj\Debug\_727CoffeeShop.Home.resources
+C:\Users\HuyNguyen\Desktop\New folder\QuanLyQuanCaPhe\727CoffeeShop\727CoffeeShop\obj\Debug\_727CoffeeShop.Login.resources
+C:\Users\HuyNguyen\Desktop\New folder\QuanLyQuanCaPhe\727CoffeeShop\727CoffeeShop\obj\Debug\_727CoffeeShop.Product.resources
+C:\Users\HuyNguyen\Desktop\New folder\QuanLyQuanCaPhe\727CoffeeShop\727CoffeeShop\obj\Debug\_727CoffeeShop.Properties.Resources.resources
+C:\Users\HuyNguyen\Desktop\New folder\QuanLyQuanCaPhe\727CoffeeShop\727CoffeeShop\obj\Debug\727CoffeeShop.csproj.GenerateResource.Cache

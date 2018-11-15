@@ -46,6 +46,7 @@
             this.txtPurchasePrice = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.txtSellingPrice = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvProduct)).BeginInit();
             this.SuspendLayout();
@@ -209,6 +210,18 @@
             this.txtSellingPrice.Size = new System.Drawing.Size(134, 20);
             this.txtSellingPrice.TabIndex = 3;
             // 
+            // button1
+            // 
+            this.button1.Image = global::_727CoffeeShop.Properties.Resources.delete;
+            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button1.Location = new System.Drawing.Point(369, 5);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(67, 26);
+            this.button1.TabIndex = 1;
+            this.button1.Text = "Tìm kiếm";
+            this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button1.UseVisualStyleBackColor = true;
+            // 
             // Product
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -222,6 +235,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.txtId);
             this.Controls.Add(this.label1);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.btnXoa);
             this.Controls.Add(this.btnSua);
             this.Controls.Add(this.btnThem);
@@ -257,5 +271,6 @@
         private System.Windows.Forms.TextBox txtPurchasePrice;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox txtSellingPrice;
+        private System.Windows.Forms.Button button1;
     }
 }
